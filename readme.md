@@ -15,6 +15,7 @@ The deferred rendering pipeline currently implements the following:
   * cookies via VGUI panels
   * light scattering via light volumes
 Lights can be directly loaded from and written to VMF files opposed to placing them in Hammer only.
+
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=bMjXx-KweIo' target='_blank'><img src='http://img.youtube.com/vi
 /bMjXx-KweIo/0.jpg' width='425' height=344 /></a>
 
